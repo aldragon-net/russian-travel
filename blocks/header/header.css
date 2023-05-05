@@ -1,0 +1,22 @@
+/* @media screen and (min-width: 800px) and (max-width: 1200px) { */
+
+.header {
+  margin-top: 28px;
+  margin-bottom: 56px;
+  display: grid;
+  grid-template-columns: 1fr max-content max-content;
+  column-gap: 16px;
+  align-items: end;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .header {
+      margin-bottom: 48px;
+    }
+  }
+
+@media screen and (max-width: 525px) {
+  .header {
+    margin-top: 28px;
+  }
+}

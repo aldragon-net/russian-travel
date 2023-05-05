@@ -1,0 +1,11 @@
+.cover {
+  margin-left: -48px;
+  margin-right: -48px;
+  aspect-ratio: 16/10;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../../images/cover-trains.jpg");
+  background-size: contain;
+  justify-content: center;
+  align-items: center;
+}

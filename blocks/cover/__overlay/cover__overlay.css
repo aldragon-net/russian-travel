@@ -1,0 +1,11 @@
+.cover__overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-color: #2A2C2F4D;
+}
+
+.cover__overlay:hover {
+  background-color: #2A2C2FCD;
+}
+

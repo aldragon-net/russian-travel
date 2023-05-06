@@ -3,5 +3,22 @@
   max-width: 720px;
   text-align: center;
   font-size: 96px;
+  line-height: 1.04;
   font-weight: 900;
+}
+
+@media screen and (max-width: 760px) {
+  .lead__title {
+    max-width: 480px;
+    font-size: 64px;
+    line-height: 1.07;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 1.1;
+  }
 }

@@ -1,4 +1,10 @@
 .intro {
+  margin-left: min(148px, calc((100% - 984px)/2));
   max-width: 690px;
-  margin: 92 0 0;
+}
+
+@media screen and (max-width: 1113px) {
+  .intro {
+    margin-left: 0;
+  }
 }

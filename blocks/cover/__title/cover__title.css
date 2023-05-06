@@ -4,7 +4,7 @@
   text-align: center;
   font-size: 72px;
   line-height: calc(76/72);
-  font-weight: 900px;
+  font-weight: 900;
   position: relative;
   z-index: 2;
   pointer-events: none;

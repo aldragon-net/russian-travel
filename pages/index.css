@@ -28,7 +28,6 @@
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
 
-@import url("../blocks/places/places.css");
 @import url("../blocks/place/place.css");
 @import url("../blocks/place/__image/place__image.css");
 @import url("../blocks/place/__link/place__link.css");
@@ -47,8 +46,3 @@
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__links/footer__links.css");
-
-
-* {
-  box-shadow: 0px 0px 2px red;
-}

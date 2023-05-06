@@ -1,7 +1,7 @@
 .header__lang-link {
   margin: 0 0 7px;
   font-size: 24px;
-  line-height: 1.17;
+  line-height: calc(28/24);
   text-decoration: none;
   text-underline-offset: 5px;
   color: white;
@@ -11,7 +11,7 @@
   .header__lang-link {
     margin-bottom: 6px;
     font-size: 18px;
-    line-height: 1.11;
+    line-height: calc(20/18);
     text-underline-offset: 4px;
   }
 }

@@ -1,6 +1,7 @@
 .place {
   max-width: 984px;
   margin: 0 auto 80px;
+  padding: 0;
   display: grid;
   grid-template-columns: 46.75% 1fr;
   row-gap: 48px;

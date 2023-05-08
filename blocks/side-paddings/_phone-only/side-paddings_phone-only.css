@@ -1,0 +1,18 @@
+.side-paddings_phone-only {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media screen and (max-width: 560px) {
+  .side-paddings_phone-only {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .side-paddings_phone-only {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

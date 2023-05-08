@@ -1,0 +1,6 @@
+@media screen and (max-width: 560px) {
+  .side-paddings_except-phone {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

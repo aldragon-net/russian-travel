@@ -7,6 +7,12 @@
   color: white;
 }
 
+@media (hover: hover) {
+  .header__lang-link:hover {
+    opacity: 80%;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .header__lang-link {
     margin-bottom: 6px;

@@ -8,6 +8,13 @@
 
 @import url("../blocks/section/section.css");
 
+@import url("../blocks/side-paddings/side-paddings.css");
+@import url("../blocks/side-paddings/_except-phone/side-paddings_except-phone.css");
+@import url("../blocks/side-paddings/_pc-only/side-paddings_pc-only.css");
+@import url("../blocks/side-paddings/_phone-only/side-paddings_phone-only.css");
+@import url("../blocks/side-paddings/_wide-only/side-paddings_wide-only.css");
+
+
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");

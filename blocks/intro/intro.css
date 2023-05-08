@@ -1,9 +1,9 @@
 .intro {
-  margin-left: min(148px, calc((100% - 984px)/2));
-  max-width: 690px;
+  margin-left: calc((100% - 1080px)/2);
+  max-width: 786px;
 }
 
-@media screen and (max-width: 1113px) {
+@media screen and (max-width: 1096px) {
   .intro {
     margin-left: 0;
   }

@@ -1,0 +1,13 @@
+.cover__link_bg-img_trains {
+  aspect-ratio: 16/10;
+  background-image: linear-gradient(#2A2C2F4D, #2A2C2F4D),
+                    url("../../../../images/cover-trains.jpg");
+  background-size: cover;
+}
+
+@media (hover: hover) {
+  .cover__link_bg-img_trains:hover {
+    background-image: linear-gradient(#2A2C2FCD, #2A2C2FCD),
+                      url("../../../../images/cover-trains.jpg");
+  }
+}

@@ -7,13 +7,12 @@
 @import url("../blocks/content/content.css");
 
 @import url("../blocks/section/section.css");
-
-@import url("../blocks/side-paddings/side-paddings.css");
-@import url("../blocks/side-paddings/_except-phone/side-paddings_except-phone.css");
-@import url("../blocks/side-paddings/_pc-only/side-paddings_pc-only.css");
-@import url("../blocks/side-paddings/_phone-only/side-paddings_phone-only.css");
-@import url("../blocks/side-paddings/_wide-only/side-paddings_wide-only.css");
-
+@import url("../blocks/section/_sm/section_sm_wide.css");
+@import url("../blocks/section/_md/section_md_wide.css");
+@import url("../blocks/section/_lg/section_lg_wide.css");
+@import url("../blocks/section/__content/section__content.css");
+@import url("../blocks/section/__content/_sm/section__content_sm_padded.css");
+@import url("../blocks/section/__content/_md/section__content_md_padded.css");
 
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
@@ -44,8 +43,8 @@
 @import url("../blocks/place/__website/place__website.css");
 
 @import url("../blocks/cover/cover.css");
-@import url("../blocks/cover/__background/cover__background.css");
-@import url("../blocks/cover/__overlay/cover__overlay.css");
+@import url("../blocks/cover/__link/cover__link.css");
+@import url("../blocks/cover/__link/_bg-img/cover__link_bg-img_trains.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
 @import url("../blocks/cover/__title/cover__title.css");
 

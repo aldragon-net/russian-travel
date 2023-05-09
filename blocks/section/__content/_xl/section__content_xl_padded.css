@@ -1,0 +1,6 @@
+@media screen and (min-width: 1080px) {
+  .section__content_lg_padded {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
